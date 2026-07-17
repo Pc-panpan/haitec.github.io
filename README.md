@@ -1,6 +1,6 @@
 ## Welcome to my Fab Academy 2020 site
 
-Here is our study schedule. More assignment detials seen from web [[HAITEC](http://fabacademy.org/2020/schedule.html](http://haitec.top/)).
+Here is our study schedule. More assignment detials seen from web [[HAITEC]([http://fabacademy.org/2020/schedule.html]).
 
 ## Global Class
 Time  
