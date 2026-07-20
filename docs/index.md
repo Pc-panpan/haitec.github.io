@@ -1,7 +1,6 @@
 # Home
 
 ## Hello, I'm Cheng Pan
-
 ## Welcome to HAITEC
 
 <img src="../docs/images/HAI.png" width="50%">  
