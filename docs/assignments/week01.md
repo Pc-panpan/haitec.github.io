@@ -1,7 +1,10 @@
 # 1. Principles and practices
 
 ## Assignment
-   * plan and sketch a potential final project 
+* download, read, and sign the student agreement,and commit the file to your repo
+* work through a git tutorial
+* build a personal site in the class archive,describing you and your final project
+
 
 This week I worked on defining my final project idea and started to getting used to the documentation process. My inspiration comes from the picture below:  
 <img src="https://gitlab.fabcloud.org/academany/fabacademy/2020/labs/oshanghai/students/pan-cheng/raw/master/docs/images/week01/%E6%A6%82%E5%BF%B5%E5%9B%BE.jpg" width = "80%">  
@@ -82,3 +85,13 @@ void MIDImessage(byte command, byte data1, byte data2) {
 ## 3D models
 
 <iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/NvR5q+shadeless"></iframe>
+
+---
+## Useful links
+
+The tutorials of [How to edit your website](https://class.textile-academy.org/tools/tutorials/gitlab/)  
+
+[Markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+
+## Reference
+[elena-cardiel's website](https://fabacademy.org/2019/labs/leon/students/elena-cardiel/diary.html)
