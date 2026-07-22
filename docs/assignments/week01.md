@@ -91,7 +91,7 @@ void MIDImessage(byte command, byte data1, byte data2) {
 
 The tutorials of [How to edit your website](https://class.textile-academy.org/tools/tutorials/gitlab/)  
 
-The tutorials of [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+The tutorials of [Markdown](https://www.runoob.com/markdown/md-tutorial.html)  
 
 ## Reference
 [elena-cardiel's website](https://fabacademy.org/2019/labs/leon/students/elena-cardiel/diary.html)
